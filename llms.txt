@@ -4,4 +4,5 @@
 
 - Main page: https://missnemesis79.github.io/Shelterai-/
 - Plain-text shelter message: https://missnemesis79.github.io/Shelterai-/shelter.txt
+- Trust and safety note: https://missnemesis79.github.io/Shelterai-/trust.txt
 - Contact: shelterai@proton.me
